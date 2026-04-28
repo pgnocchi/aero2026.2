@@ -1,0 +1,5 @@
+{
+  "name": "AERODYNA 簍空支撐座位模擬器",
+  "description": "Interactive ergonomic seat lab featuring parametric 3D lattice deformation and multi-point force simulation.",
+  "requestFramePermissions": []
+}
